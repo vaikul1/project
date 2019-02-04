@@ -1,0 +1,8 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"CSEQ","NUMBER(20,0)","No","","1"
+"CID","VARCHAR2(20)","No","",""
+"SKILL1","VARCHAR2(20)","Yes","",""
+"SKILL2","VARCHAR2(20)","Yes","",""
+"SKILL3","VARCHAR2(20)","Yes","",""
+"SKILL4","VARCHAR2(20)","Yes","",""
+"SKILL5","VARCHAR2(20)","Yes","",""

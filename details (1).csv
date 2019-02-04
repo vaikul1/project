@@ -1,0 +1,8 @@
+"Column Name","Data Type","Nullable","Default","Primary Key"
+"CMID","VARCHAR2(15)","No","","1"
+"NAME","VARCHAR2(20)","No","",""
+"ADDRESS","VARCHAR2(20)","No","",""
+"DESCRIPTION","VARCHAR2(25)","No","",""
+"EMAIL","VARCHAR2(20)","No","",""
+"PASSWORD","VARCHAR2(20)","No","",""
+"PHONE_NO","NUMBER(10,0)","No","",""
